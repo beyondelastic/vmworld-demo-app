@@ -1,0 +1,27 @@
+/*
+ * AUTHOR: JEREMY HAWES
+ * URL: http://www.onelittledesigner.com/rapdidweaver-stack/simple-position/
+ * Support: support@1littledesigner.com
+ * Version 1.0.4
+ * Description: Simple Element Positioning & Z-Index Control
+ */
+
+
+	#simplePosition_stacks_in_2_page3 {
+		position: fixed;
+		z-index: 1;
+		bottom: 150px;
+		left: 0px;
+	}
+
+#simplePosition_stacks_in_2_page3.sizeControlOn {
+	width: 300px;
+	height: 300px;
+}
+#simplePosition_stacks_in_2_page3 h3.advert {
+	
+}
+
+#stacks_in_4_page3 {
+	margin: 70px 0px 0px 0px;
+}
